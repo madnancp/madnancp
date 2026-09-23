@@ -1,3 +1,5 @@
-I'm [Adnan Muhammed](https://madnancp.github.io) <br />
+I'm **Adnan Muhammed**<br />
 
-Interested in the real software engineering.
+interested in software engineering, i mean the legacy one.
+
+[portfolio](https://madnancp.github.io)
